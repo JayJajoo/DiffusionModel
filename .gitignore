@@ -1,0 +1,5 @@
+train_val/
+test/
+__pycache__/
+.DS_Store
+*.pyc
